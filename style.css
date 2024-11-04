@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+table {
+  width: 50%;
+  border-collapse: collapse;
+}
+ td {
+  border: 10px solid black;
+  height: 50px;
+  
+ }
+ td.fourth-row-1 {
+  width: 30px; 
+  padding: 0; 
+}
+
+td.third-row-1 {
+  background-color: yellow;
+}
+
+td.first-row-2{
+  width: 40px;
+}
+
+td.first-row-6{
+  background-color: yellow;
+}
+
+td.second-row-2{
+  background-color: red;
+}
+
+.row-2 {
+  height: 200px;
+}
+
+td.third-row-2{
+  background-color: yellow;
+  width: 25%;
+}
+
+td.second-row-4{
+  background-color: black;
+  height: 120px;
+}
+
+td.second-row-6{
+  background-color: black;
+}
+ 
+td.fourth-row-5{
+  background-color: red;
+}
+
+td.third-row-5{
+  background-color: blue;
+}
